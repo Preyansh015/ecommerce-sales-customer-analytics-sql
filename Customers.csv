@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Email,Phone,City,State,JoinDate
+1,Customer 1,customer1@mail.com,9126855092,Mumbai,Maharashtra,2024-05-20
+2,Customer 2,customer2@mail.com,9339670711,Delhi,Delhi,2024-03-12
+3,Customer 3,customer3@mail.com,9826600539,Mumbai,Maharashtra,2024-10-06
+4,Customer 4,customer4@mail.com,9734036506,Mumbai,Maharashtra,2024-08-04
+5,Customer 5,customer5@mail.com,9131994523,Mumbai,Maharashtra,2024-02-17
+6,Customer 6,customer6@mail.com,9349817734,Delhi,Delhi,2024-09-15
+7,Customer 7,customer7@mail.com,9128492780,Hyderabad,Telangana,2024-10-14
+8,Customer 8,customer8@mail.com,9868820204,Delhi,Delhi,2024-11-28
+9,Customer 9,customer9@mail.com,9550455977,Hyderabad,Telangana,2024-04-22
+10,Customer 10,customer10@mail.com,9732719211,Chennai,Tamil Nadu,2024-05-22
+11,Customer 11,customer11@mail.com,9914763202,Mumbai,Maharashtra,2024-03-22
+12,Customer 12,customer12@mail.com,9465341213,Chennai,Tamil Nadu,2024-05-22
+13,Customer 13,customer13@mail.com,9331191390,Delhi,Delhi,2024-06-21
+14,Customer 14,customer14@mail.com,9199585092,Mumbai,Maharashtra,2024-07-13
+15,Customer 15,customer15@mail.com,9485451171,Mumbai,Maharashtra,2024-06-25
+16,Customer 16,customer16@mail.com,9384027113,Hyderabad,Telangana,2024-01-23
+17,Customer 17,customer17@mail.com,9675770529,Chennai,Tamil Nadu,2024-03-04
+18,Customer 18,customer18@mail.com,9184611066,Chennai,Tamil Nadu,2024-10-09
+19,Customer 19,customer19@mail.com,9990566476,Bengaluru,Karnataka,2024-11-17
+20,Customer 20,customer20@mail.com,9488302652,Hyderabad,Telangana,2024-10-22
+21,Customer 21,customer21@mail.com,9856528252,Delhi,Delhi,2024-02-05
+22,Customer 22,customer22@mail.com,9810026086,Mumbai,Maharashtra,2024-04-26
+23,Customer 23,customer23@mail.com,9185675980,Bengaluru,Karnataka,2024-04-29
+24,Customer 24,customer24@mail.com,9508157429,Mumbai,Maharashtra,2024-05-22
+25,Customer 25,customer25@mail.com,9782560971,Chennai,Tamil Nadu,2024-07-05
+26,Customer 26,customer26@mail.com,9497478786,Delhi,Delhi,2024-06-30
+27,Customer 27,customer27@mail.com,9819595113,Delhi,Delhi,2024-05-16
+28,Customer 28,customer28@mail.com,9754049436,Mumbai,Maharashtra,2024-11-21
+29,Customer 29,customer29@mail.com,9673528321,Delhi,Delhi,2024-05-05
+30,Customer 30,customer30@mail.com,9596348124,Delhi,Delhi,2024-07-13
+31,Customer 31,customer31@mail.com,9787194506,Bengaluru,Karnataka,2024-12-18
+32,Customer 32,customer32@mail.com,9335809993,Hyderabad,Telangana,2024-12-16
+33,Customer 33,customer33@mail.com,9924970419,Bengaluru,Karnataka,2024-01-29
+34,Customer 34,customer34@mail.com,9982403818,Delhi,Delhi,2024-01-17
+35,Customer 35,customer35@mail.com,9530747414,Bengaluru,Karnataka,2024-05-17
+36,Customer 36,customer36@mail.com,9326541099,Mumbai,Maharashtra,2024-10-17
+37,Customer 37,customer37@mail.com,9328306011,Bengaluru,Karnataka,2024-12-01
+38,Customer 38,customer38@mail.com,9524806516,Chennai,Tamil Nadu,2024-11-25
+39,Customer 39,customer39@mail.com,9253407200,Chennai,Tamil Nadu,2024-05-15
+40,Customer 40,customer40@mail.com,9364814270,Delhi,Delhi,2024-10-14
+41,Customer 41,customer41@mail.com,9382116655,Hyderabad,Telangana,2024-10-26
+42,Customer 42,customer42@mail.com,9726563708,Chennai,Tamil Nadu,2024-07-23
+43,Customer 43,customer43@mail.com,9335493870,Bengaluru,Karnataka,2024-03-11
+44,Customer 44,customer44@mail.com,9629908599,Hyderabad,Telangana,2024-02-16
+45,Customer 45,customer45@mail.com,9217734861,Mumbai,Maharashtra,2024-03-19
+46,Customer 46,customer46@mail.com,9950488739,Delhi,Delhi,2024-12-14
+47,Customer 47,customer47@mail.com,9740389325,Chennai,Tamil Nadu,2024-02-02
+48,Customer 48,customer48@mail.com,9509760584,Chennai,Tamil Nadu,2024-11-01
+49,Customer 49,customer49@mail.com,9668132202,Chennai,Tamil Nadu,2024-05-08
+50,Customer 50,customer50@mail.com,9112327652,Hyderabad,Telangana,2024-12-14
+51,Customer 51,customer51@mail.com,9831980933,Mumbai,Maharashtra,2024-10-01
+52,Customer 52,customer52@mail.com,9925276600,Bengaluru,Karnataka,2024-11-24
+53,Customer 53,customer53@mail.com,9219778234,Bengaluru,Karnataka,2024-05-30
+54,Customer 54,customer54@mail.com,9269820594,Chennai,Tamil Nadu,2024-08-20
+55,Customer 55,customer55@mail.com,9875340444,Mumbai,Maharashtra,2024-05-14
+56,Customer 56,customer56@mail.com,9918150683,Hyderabad,Telangana,2024-04-01
+57,Customer 57,customer57@mail.com,9214257751,Hyderabad,Telangana,2024-11-16
+58,Customer 58,customer58@mail.com,9786066793,Bengaluru,Karnataka,2024-09-16
+59,Customer 59,customer59@mail.com,9313579170,Hyderabad,Telangana,2024-03-19
+60,Customer 60,customer60@mail.com,9918739736,Bengaluru,Karnataka,2024-03-23
+61,Customer 61,customer61@mail.com,9936043811,Hyderabad,Telangana,2024-09-28
+62,Customer 62,customer62@mail.com,9743111853,Mumbai,Maharashtra,2024-06-14
+63,Customer 63,customer63@mail.com,9120912992,Chennai,Tamil Nadu,2024-02-27
+64,Customer 64,customer64@mail.com,9992994062,Bengaluru,Karnataka,2024-06-06
+65,Customer 65,customer65@mail.com,9162196678,Delhi,Delhi,2024-05-03
+66,Customer 66,customer66@mail.com,9184564737,Hyderabad,Telangana,2024-02-13
+67,Customer 67,customer67@mail.com,9976198296,Chennai,Tamil Nadu,2024-02-05
+68,Customer 68,customer68@mail.com,9922308461,Hyderabad,Telangana,2024-03-05
+69,Customer 69,customer69@mail.com,9808402051,Delhi,Delhi,2024-08-31
+70,Customer 70,customer70@mail.com,9277303722,Hyderabad,Telangana,2024-05-15
+71,Customer 71,customer71@mail.com,9751325257,Hyderabad,Telangana,2024-08-04
+72,Customer 72,customer72@mail.com,9679064766,Delhi,Delhi,2024-12-19
+73,Customer 73,customer73@mail.com,9865523129,Delhi,Delhi,2024-06-08
+74,Customer 74,customer74@mail.com,9821218382,Chennai,Tamil Nadu,2024-11-28
+75,Customer 75,customer75@mail.com,9570406376,Bengaluru,Karnataka,2024-09-21
+76,Customer 76,customer76@mail.com,9229927269,Chennai,Tamil Nadu,2024-05-06
+77,Customer 77,customer77@mail.com,9168747287,Delhi,Delhi,2024-06-22
+78,Customer 78,customer78@mail.com,9731691672,Mumbai,Maharashtra,2024-10-10
+79,Customer 79,customer79@mail.com,9731832764,Delhi,Delhi,2024-04-22
+80,Customer 80,customer80@mail.com,9176228245,Mumbai,Maharashtra,2024-12-28
+81,Customer 81,customer81@mail.com,9345824373,Mumbai,Maharashtra,2024-02-04
+82,Customer 82,customer82@mail.com,9454794895,Mumbai,Maharashtra,2024-02-06
+83,Customer 83,customer83@mail.com,9355555531,Hyderabad,Telangana,2024-05-22
+84,Customer 84,customer84@mail.com,9330035022,Chennai,Tamil Nadu,2024-10-03
+85,Customer 85,customer85@mail.com,9876693898,Delhi,Delhi,2024-10-19
+86,Customer 86,customer86@mail.com,9607526654,Hyderabad,Telangana,2024-05-04
+87,Customer 87,customer87@mail.com,9967043303,Chennai,Tamil Nadu,2024-07-27
+88,Customer 88,customer88@mail.com,9201281557,Delhi,Delhi,2024-02-19
+89,Customer 89,customer89@mail.com,9480424119,Chennai,Tamil Nadu,2024-08-04
+90,Customer 90,customer90@mail.com,9601463916,Chennai,Tamil Nadu,2024-01-28
+91,Customer 91,customer91@mail.com,9165082363,Mumbai,Maharashtra,2024-07-25
+92,Customer 92,customer92@mail.com,9959629660,Bengaluru,Karnataka,2024-02-25
+93,Customer 93,customer93@mail.com,9305718272,Delhi,Delhi,2024-04-07
+94,Customer 94,customer94@mail.com,9581695135,Hyderabad,Telangana,2024-03-12
+95,Customer 95,customer95@mail.com,9297018781,Chennai,Tamil Nadu,2024-05-22
+96,Customer 96,customer96@mail.com,9368227631,Chennai,Tamil Nadu,2024-02-08
+97,Customer 97,customer97@mail.com,9967607278,Chennai,Tamil Nadu,2024-10-08
+98,Customer 98,customer98@mail.com,9154318806,Mumbai,Maharashtra,2024-11-29
+99,Customer 99,customer99@mail.com,9997677788,Hyderabad,Telangana,2024-01-08
+100,Customer 100,customer100@mail.com,9909134796,Mumbai,Maharashtra,2024-05-01
